@@ -1,0 +1,43 @@
+header {
+  
+  display: flex;
+  padding: 0.5vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  background-color: #152238;
+  
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+  color:orange;
+}
+
+a:active{
+  color: red;
+}
+
+.title {
+  font-family: "Exo 2", sans-serif;
+  font-size: 4vw;
+  color: orange;
+}
+
+.navLinks li{
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.56vw;
+  color: orange;
+  list-style:none;
+  display: inline-block;
+}
+
+
